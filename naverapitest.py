@@ -6,8 +6,6 @@ import boto3
 
 '''
 @Min Gyung Song
-@mg.song@sk.com
-@SKTelecom
 @2018.04.03
 @Select all categories from DynamoDB
 @Insert Naver shopping search results into DynamoDB
