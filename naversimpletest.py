@@ -3,8 +3,8 @@ import sys
 import urllib.request
 import json
 
-clientId = "1ZELUsHnsOaABpHHnuj7"
-clientSecret = "t4lvjSoAzZ"
+clientId = ""
+clientSecret = ""
 encText = urllib.parse.quote("\uacfc\uc790\\/\uac04\uc2dd")
 url = "https://openapi.naver.com/v1/search/shop?query=" + encText + "&display=10&sort=count"
 
