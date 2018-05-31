@@ -110,8 +110,8 @@ class NaverShoppingConnector:
 
 if __name__ == '__main__':
 
-	clientId = "1ZELUsHnsOaABpHHnuj7"
-	clientSecret = "t4lvjSoAzZ"
+	clientId = ""
+	clientSecret = ""
 	sortingmethod = 'count'
 	searchNumber = 100
 	tableName = 'ItemCategories'
